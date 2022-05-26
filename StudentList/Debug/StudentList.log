@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\nasty\source\repos\StudentList\StudentList\list.h(360,12): warning C4047: функция: "const char *const " отличается по уровням косвенного обращения от "int"
+C:\Users\nasty\source\repos\StudentList\StudentList\list.h(360,11): warning C4024: scanf_s: различные типы для формального и фактического параметров 1
+  StudentList.vcxproj -> C:\Users\nasty\source\repos\StudentList\Debug\StudentList.exe
