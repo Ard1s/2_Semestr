@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\ПК\source\repos\VariableNumberOfArgs\VariableNumberOfArgs\Source.c(23,1): warning C4133: инициализация: несовместимые типы - из "int *" в "double *"
+C:\Users\ПК\source\repos\VariableNumberOfArgs\VariableNumberOfArgs\Source.c(76,22): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+  main.c
+C:\Users\ПК\source\repos\VariableNumberOfArgs\VariableNumberOfArgs\main.c(12,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+  Создание кода...
+  VariableNumberOfArgs.vcxproj -> C:\Users\ПК\source\repos\VariableNumberOfArgs\x64\Debug\VariableNumberOfArgs.exe
