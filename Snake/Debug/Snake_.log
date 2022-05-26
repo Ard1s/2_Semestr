@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\nasty\source\repos\Snake_\Snake_\main.c(232,65): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\nasty\source\repos\Snake_\Snake_\main.c(240,90): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\nasty\source\repos\Snake_\Snake_\main.c(263,85): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\nasty\source\repos\Snake_\Snake_\main.c(439,20): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "void (__cdecl *)(void)"
+C:\Users\nasty\source\repos\Snake_\Snake_\main.c(440,24): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "void (__cdecl *)(void)"
+C:\Users\nasty\source\repos\Snake_\Snake_\main.c(503,27): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "void (__cdecl *)(void)"
+C:\Users\nasty\source\repos\Snake_\Snake_\main.c(504,31): warning C4113: "void (__cdecl *)()" отличается в списках параметров от "void (__cdecl *)(void)"
+  Snake_.vcxproj -> C:\Users\nasty\source\repos\Snake_\Debug\Snake_.exe
