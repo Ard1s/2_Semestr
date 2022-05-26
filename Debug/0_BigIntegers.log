@@ -1,0 +1,9 @@
+﻿  func.c
+C:\Users\nasty\source\repos\0_BigIntegers\0_BigIntegers\func.c(58,88): warning C4244: =: преобразование "const uint64_t" в "size_t", возможна потеря данных
+C:\Users\nasty\source\repos\0_BigIntegers\0_BigIntegers\func.c(70,42): warning C4244: =: преобразование "const uint64_t" в "size_t", возможна потеря данных
+C:\Users\nasty\source\repos\0_BigIntegers\0_BigIntegers\func.c(146,67): warning C4244: функция: преобразование "const uint64_t" в "const size_t", возможна потеря данных
+C:\Users\nasty\source\repos\0_BigIntegers\0_BigIntegers\func.c(152,44): warning C4244: функция: преобразование "const uint64_t" в "const size_t", возможна потеря данных
+C:\Users\nasty\source\repos\0_BigIntegers\0_BigIntegers\func.c(121,1): warning C4244: инициализация: преобразование "const uint64_t" в "size_t", возможна потеря данных
+  main.c
+  Создание кода...
+  0_BigIntegers.vcxproj -> C:\Users\nasty\source\repos\0_BigIntegers\Debug\0_BigIntegers.exe
