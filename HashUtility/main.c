@@ -42,8 +42,11 @@ int main(int argc, char* argv[])
 		{
 			if (letterCount < MAX_INPUT_CHARS)
 			{
-				if (((framesCounter / 20) % 2) == 0) DrawText("_", (int)textBox.x + 8 + MeasureText(name, 40), (int)textBox.y + 12, 40, MAROON);
-				print_hash(result);
+				if (((framesCounter / 20) % 2) == 0) 
+				{
+					DrawText("_", (int)textBox.x + 8 + MeasureText(name, 40), (int)textBox.y + 12, 40, MAROON);
+					print_hash(result);
+				}
 			}
 			else DrawText("Press BACKSPACE to delete chars", 230, 300, 20, GRAY);
 		}
