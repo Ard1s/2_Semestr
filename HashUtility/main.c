@@ -36,9 +36,17 @@ int main(int argc, char* argv[])
 		DrawText(name, (int)textBox.x + 5, (int)textBox.y + 8, 40, MAROON);
 
 		DrawText(TextFormat("Enter values: %i/%i", letterCount, MAX_INPUT_CHARS), 315, 250, 20, YELLOW);
-		store(letterCount, HASH);
-		print_hash(Hash);
+		store(Hash, letterCount);
 		find(HASH);
+		if (mouseOnText)
+		{
+			if (letterCount < MAX_INPUT_CHARS)
+			{
+				if (((framesCounter / 20) % 2) == 0) DrawText("_", (int)textBox.x + 8 + MeasureText(name, 40), (int)textBox.y + 12, 40, MAROON);
+				print_hash(result);
+			}
+			else DrawText("Press BACKSPACE to delete chars", 230, 300, 20, GRAY);
+		}
 
 
 		EndDrawing();
