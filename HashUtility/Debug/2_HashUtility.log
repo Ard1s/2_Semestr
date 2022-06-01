@@ -1,0 +1,114 @@
+﻿  func.c
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(233,3): error C2365: Rectangle: переопределение; предыдущим определением было "функция"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(4515): message : см. объявление "Rectangle"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(271,5): error C2061: синтаксическая ошибка: идентификатор "Rectangle"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(277,1): error C2059: синтаксическая ошибка: }
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(294,5): error C2061: синтаксическая ошибка: идентификатор "Rectangle"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(296,1): error C2059: синтаксическая ошибка: }
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(907,12): error C2373: CloseWindow: переопределение; различные модификаторы типа
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(4705): message : см. объявление "CloseWindow"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(954,12): error C2373: ShowCursor: переопределение; различные модификаторы типа
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9309): message : см. объявление "ShowCursor"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1143,58): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "source"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1143,58): error C2081: Rectangle: недопустимое имя в списке формальных параметров
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1143,58): error C2061: синтаксическая ошибка: идентификатор "source"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1143,58): error C2059: синтаксическая ошибка: ;
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1143,64): error C2059: синтаксическая ошибка: )
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1167,39): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1167,39): error C2061: синтаксическая ошибка: идентификатор "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1167,39): error C2059: синтаксическая ошибка: ;
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1167,42): error C2059: синтаксическая ошибка: ,
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1167,55): error C2059: синтаксическая ошибка: )
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1168,39): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1168,39): error C2061: синтаксическая ошибка: идентификатор "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1168,39): error C2059: синтаксическая ошибка: ;
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1168,42): error C2059: синтаксическая ошибка: ,
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1168,87): error C2059: синтаксическая ошибка: )
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1171,46): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1171,46): error C2061: синтаксическая ошибка: идентификатор "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1171,46): error C2059: синтаксическая ошибка: ;
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1171,49): error C2059: синтаксическая ошибка: ,
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1171,97): error C2059: синтаксическая ошибка: )
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1173,43): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1173,43): error C2061: синтаксическая ошибка: идентификатор "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1173,43): error C2059: синтаксическая ошибка: ;
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1173,46): error C2059: синтаксическая ошибка: ,
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1173,76): error C2059: синтаксическая ошибка: )
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1174,43): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1174,43): error C2061: синтаксическая ошибка: идентификатор "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1174,43): error C2059: синтаксическая ошибка: ;
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1174,46): error C2059: синтаксическая ошибка: ,
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1174,90): error C2059: синтаксическая ошибка: )
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1175,48): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1175,48): error C2061: синтаксическая ошибка: идентификатор "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1175,48): error C2059: синтаксическая ошибка: ;
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1175,51): error C2059: синтаксическая ошибка: ,
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1175,112): error C2059: синтаксическая ошибка: )
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1185,41): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "rec1"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1185,41): error C2061: синтаксическая ошибка: идентификатор "rec1"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1185,41): error C2059: синтаксическая ошибка: ;
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1185,45): error C2059: синтаксическая ошибка: ,
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1185,61): error C2059: синтаксическая ошибка: )
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1187,76): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1187,76): error C2081: Rectangle: недопустимое имя в списке формальных параметров
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1187,76): error C2061: синтаксическая ошибка: идентификатор "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1187,76): error C2059: синтаксическая ошибка: ;
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1187,79): error C2059: синтаксическая ошибка: )
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1188,60): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1188,60): error C2081: Rectangle: недопустимое имя в списке формальных параметров
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1188,60): error C2061: синтаксическая ошибка: идентификатор "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1188,60): error C2059: синтаксическая ошибка: ;
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1188,63): error C2059: синтаксическая ошибка: )
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1193,17): error C2061: синтаксическая ошибка: идентификатор "GetCollisionRec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1193,17): error C2059: синтаксическая ошибка: ;
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1193,43): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "rec1"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1193,43): error C2061: синтаксическая ошибка: идентификатор "rec1"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1193,47): error C2059: синтаксическая ошибка: ,
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1193,63): error C2059: синтаксическая ошибка: )
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1201,13): error C2373: LoadImageW: переопределение; различные модификаторы типа
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(10824): message : см. объявление "LoadImageW"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1222,51): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1222,51): error C2081: Rectangle: недопустимое имя в списке формальных параметров
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1222,51): error C2061: синтаксическая ошибка: идентификатор "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1222,51): error C2059: синтаксическая ошибка: ;
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1222,54): error C2059: синтаксическая ошибка: )
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1224,30): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "font"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1224,30): error C2061: синтаксическая ошибка: идентификатор "font"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1224,30): error C2059: синтаксическая ошибка: ;
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1224,34): error C2059: синтаксическая ошибка: ,
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1224,95): error C2059: синтаксическая ошибка: )
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1227,46): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "crop"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1227,46): error C2081: Rectangle: недопустимое имя в списке формальных параметров
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1227,46): error C2061: синтаксическая ошибка: идентификатор "crop"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1227,46): error C2059: синтаксическая ошибка: ;
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1227,50): error C2059: синтаксическая ошибка: )
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1251,17): error C2061: синтаксическая ошибка: идентификатор "GetImageAlphaBorder"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1251,17): error C2059: синтаксическая ошибка: ;
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1251,43): error C2059: синтаксическая ошибка: <parameter-list>
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1265,56): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1265,56): error C2081: Rectangle: недопустимое имя в списке формальных параметров
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1265,56): error C2061: синтаксическая ошибка: идентификатор "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1265,56): error C2059: синтаксическая ошибка: ;
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1265,59): error C2059: синтаксическая ошибка: ,
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1265,72): error C2059: синтаксическая ошибка: )
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1266,58): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1266,58): error C2081: Rectangle: недопустимое имя в списке формальных параметров
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1266,58): error C2061: синтаксическая ошибка: идентификатор "rec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1266,58): error C2059: синтаксическая ошибка: ;
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1266,61): error C2059: синтаксическая ошибка: ,
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1266,85): error C2059: синтаксическая ошибка: )
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1267,55): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "srcRec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1267,55): error C2081: Rectangle: недопустимое имя в списке формальных параметров
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1267,55): error C2061: синтаксическая ошибка: идентификатор "srcRec"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1267,55): error C2059: синтаксическая ошибка: ;
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1267,61): error C2059: синтаксическая ошибка: ,
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1267,91): error C2059: синтаксическая ошибка: )
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1269,45): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "font"
+C:\raylib\vcpkg-master\installed\x86-windows\include\raylib.h(1269,45): fatal error C1003: число ошибок превышает 100; остановка компиляции
+  main.c
+C:\Users\nasty\source\repos\2_HashUtility\2_HashUtility\main.c(39,22): warning C4047: функция: "htype *" отличается по уровням косвенного обращения от "int"
+C:\Users\nasty\source\repos\2_HashUtility\2_HashUtility\main.c(39,11): warning C4024: slstore: различные типы для формального и фактического параметров 1
+C:\Users\nasty\source\repos\2_HashUtility\2_HashUtility\main.c(39,28): warning C4047: функция: "htype *" отличается по уровням косвенного обращения от "__int64"
+C:\Users\nasty\source\repos\2_HashUtility\2_HashUtility\main.c(39,24): warning C4024: slstore: различные типы для формального и фактического параметров 2
+C:\Users\nasty\source\repos\2_HashUtility\2_HashUtility\main.c(10,11): warning C4101: result: неиспользованная локальная переменная
+  Создание кода...
