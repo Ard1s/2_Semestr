@@ -1,0 +1,16 @@
+﻿  Main.cpp
+C:\Users\nasty\source\repos\CppMatrix\CppMatrix\Main.cpp(29,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nasty\source\repos\CppMatrix\CppMatrix\Main.cpp(32,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nasty\source\repos\CppMatrix\CppMatrix\Main.cpp(42,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nasty\source\repos\CppMatrix\CppMatrix\Main.cpp(44,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nasty\source\repos\CppMatrix\CppMatrix\Main.cpp(54,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nasty\source\repos\CppMatrix\CppMatrix\Main.cpp(57,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nasty\source\repos\CppMatrix\CppMatrix\Main.cpp(90,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nasty\source\repos\CppMatrix\CppMatrix\Main.cpp(100,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nasty\source\repos\CppMatrix\CppMatrix\Main.cpp(103,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nasty\source\repos\CppMatrix\CppMatrix\Main.cpp(106,38): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nasty\source\repos\CppMatrix\CppMatrix\Main.cpp(228,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nasty\source\repos\CppMatrix\CppMatrix\Main.cpp(230,34): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nasty\source\repos\CppMatrix\CppMatrix\Main.cpp(241,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nasty\source\repos\CppMatrix\CppMatrix\Main.cpp(243,34): warning C4018: <: несоответствие типов со знаком и без знака
+  CppMatrix.vcxproj -> C:\Users\nasty\source\repos\CppMatrix\Debug\CppMatrix.exe

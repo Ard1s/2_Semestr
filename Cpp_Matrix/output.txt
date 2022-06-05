@@ -1,0 +1,20 @@
+1 7 4 
+0 9 4 
+8 8 2 
+determinant: -78
+4 5 5 
+1 7 1 
+1 5 2 
+determinant: 21
+7 6 1 
+4 2 3 
+2 2 1 
+determinant: -12
+6 8 5 
+7 6 1 
+8 9 2 
+determinant: 45
+7 9 5 
+4 3 1 
+2 3 3 
+determinant: -18
