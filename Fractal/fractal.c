@@ -14,7 +14,7 @@ void compute_image(struct bitmap* bm, double xmin, double xmax, double ymin, dou
 
 void show_help()
 {
-	printf("Use: mandel [options]\n");
+	printf("Use: fractal [options]\n");
 	printf("Where options are:\n");
 	printf("-m <max>    The maximum number of iterations per point. (default=1000)\n");
 	printf("-x <coord>  X coordinate of image center point. (default=0)\n");
@@ -76,7 +76,7 @@ int main(int argc, char* argv[])
 		}
 	}
 
-	printf("mandel: x=%lf y=%lf scale=%lf max=%d outfile=%s\n", xcenter, ycenter, scale, max, outfile);
+	printf("fractal: x=%lf y=%lf scale=%lf max=%d outfile=%s\n", xcenter, ycenter, scale, max, outfile);
 
 	struct bitmap* bm = bitmap_create(image_width, image_height);
 
