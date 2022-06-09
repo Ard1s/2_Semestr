@@ -39,27 +39,21 @@ void sdl_draw_mandelbrot(SDL_Window *window, SDL_Surface *surface, complex doubl
         {
             for (x = 0; x < WIDTH; x++)
             {
-                /* Get the complex poing on gauss space to be calculate */
                 z = c = creal(center) + ((x - (WIDTH/2))/zoom) + 
                     ((cimag(center) + ((y - (HEIGHT/2))/zoom))*_Complex_I);
 
                 #define X creal(z)
                 #define Y cimag(z)
 
-                /* Check if point lies within the main cardiod or 
-                   in the period-2 buld */
                 if ( (pow(X-.25,2) + pow(Y,2))*(pow(X,2) + (X/2) + pow(Y,2) - .1875) < pow(Y,2)/4 ||
                      pow(X+1,2) + pow(Y,2) < .0625 )
                     n = maxiter;
                 else
-                    /* Applies the actual mandelbrot formula on that point */
                     for (n = 0; n <= maxiter && cabs(z) < BAIL_OUT; n ++)
                         z = cpow(z, 2) + c;
 
                 C = n - log2f(logf(cabs(z)) / M_LN2 );
 
-                /* Paint the pixel calculated depending on the number 
-                   of iterations found */
                 ((Uint32*)surface->pixels)[(y*surface->w) + x] = (n >= maxiter)? 0 :
                     SDL_MapRGB( surface->format,
                     (1+sin(C*0.27 + 5))*127., (1+cos(C*0.85))*127., (1+sin(C*0.15))*127. );
@@ -76,7 +70,7 @@ void sdl_draw_mandelbrot(SDL_Window *window, SDL_Surface *surface, complex doubl
 
 int main(int argc, char **argv)
 {
-    /* SDL SEtup */
+
     if ( SDL_Init(SDL_INIT_VIDEO) < 0 )
     {
         fprintf(stderr, "Could not initialize SDL: %s\n", SDL_GetError());
@@ -96,7 +90,6 @@ int main(int argc, char **argv)
 
     SDL_Surface* surface = SDL_GetWindowSurface(window);
 
-    /* Initialize variables */
     double complex center = START_POS;
     double zoom = START_ZOOM;
 
