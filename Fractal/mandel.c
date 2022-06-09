@@ -34,7 +34,7 @@ int main(int argc, char* argv[])
 {
 	char c;
 
-	const char* outfile = "mandel.bmp";
+	const char* outfile = "fractal.bmp";
 	double xcenter = 0;
 	double ycenter = 0;
 	double scale = 4;
