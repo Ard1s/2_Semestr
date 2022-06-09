@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\nasty\source\repos\Sudoku\Sudoku\main.c(25,15): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\nasty\source\repos\Sudoku\Sudoku\main.c(20,15): warning C4101: y: неиспользованная локальная переменная
+C:\Users\nasty\source\repos\Sudoku\Sudoku\main.c(20,12): warning C4101: s: неиспользованная локальная переменная
+C:\Users\nasty\source\repos\Sudoku\Sudoku\main.c(327,15): warning C4048: разные индексы массива: "char (*)[9]" и "char (*)[5]"
+  Sudoku.vcxproj -> C:\Users\nasty\source\repos\Sudoku\Debug\Sudoku.exe
