@@ -6,7 +6,7 @@
 #include <time.h>
 #include<windows.h>
 #define n 5
-#define m 5
+#define m 6
 
 void transpon(char mas[n][m], char copy_mas[n][m]);
 void mashing(char mas[n][m], char copy_mas[n][m], int number);
