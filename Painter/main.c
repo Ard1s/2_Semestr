@@ -4,7 +4,7 @@
 #include "headers.h"
 
 
-#define UP 72
+#define UP 74
 #define DOWN 80
 #define LEFT 75
 #define RIGHT 77
